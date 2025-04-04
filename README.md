@@ -1,4 +1,5 @@
-![images](https://github.com/user-attachments/assets/48760f9b-c0ca-4204-840b-1c24f10eaa16)
+![icegif-96](https://github.com/user-attachments/assets/0d39edf9-eb74-464a-8969-65d6ac6aa785)
+
 <h1 align="center">Hi 👋, I'm DevangBarot1</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
